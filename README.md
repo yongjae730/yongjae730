@@ -6,7 +6,7 @@
 📚삼성 청년 SW 아카데미 (SSAFY) 12기
 
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lyj3023"/>
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lyj3023"/>
 
 ![yongjae730's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongjae730&show_icons=true&theme=transparent)
 
