@@ -10,6 +10,21 @@
 
 ![yongjae730's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongjae730&show_icons=true&theme=transparent)
 
+
+## 🧑‍💻 Stats!!
+
+### 📊 Git stat
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongjae730)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yongjae730)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongjae730)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yongjae730&theme=react-dark&bg_color=FFFFFF&hide_border=true&line=000000&color=000000" width=94%/>
+</a>
+
   
 ## 👀skill
 
